@@ -1,0 +1,2 @@
+# my-stocks
+technical analysis
